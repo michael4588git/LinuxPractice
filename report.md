@@ -4,11 +4,9 @@
 Создаём одну ВМ на основе скачанного образа и создаём две её копии.
 Далее настраиваем сетевые адаптеры по заданию (две подсети: servernet и clientnet + сетевой мост).
 После этого на каждой машине вручную задаем новый hostname и user.
-```shell
-    1. Linux A: user=shipilov_1, hostname=shipilovserver
-    2. Linux B: user=shipilov_2, hostname=shipilovgateway
-    3. Linux C: user=shipilov_3, hostname=shipilovclient
-```
+`Linux A: user=shipilov_1, hostname=shipilovserver`
+`Linux B: user=shipilov_2, hostname=shipilovgateway`
+`Linux C: user=shipilov_3, hostname=shipilovclient`
 
 <br><br>
 
