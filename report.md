@@ -55,10 +55,10 @@
 *Linux С*:<br>
 Отправляем три запроса (/get, /post, /put) для проверки:
 
-![Linux A_py](pics/python_check.png)
-![Linux C_curl](pics/vmC_check_curl.png)
-![tcpGET](pics/tcpGET.png)
-![tcpPOST](pics/tcpPOST.png)
-![tcpPUT](pics/tcpPUT.png)
+![Linux A_py](pics/python_check1.png)
+![Linux C_curl](pics/vmC_check_curl1.png)
+![tcpGET](pics/tcpGET1.png)
+![tcpPOST](pics/tcpPOST1.png)
+![tcpPUT](pics/tcpPUT1.png)
 
 Представленные скриншоты подтверждают работоспособность системы: все виртуальные машины успешно настроены, связь и фильтрация пакетов налажена, а Flask приложение отрабатывает все запросы.
